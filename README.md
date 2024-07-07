@@ -15,7 +15,7 @@
 
 A vulnerable Play application for attackers.
 
-For example, this shows where unvalidated input from the client can be improperly trusted by the application and included in the response. There is also a sample cross-site scripting vulnerability.
+For example, this shows where unvalidated input from the client can be improperly trusted by the application and included in the response. There is also a sample cross-site scripting vulnerability. 
 
 ## Fortify SCA
 
